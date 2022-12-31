@@ -6,7 +6,7 @@ Global Satellite Navigation Systems (GNSS), such as GPS, have revolutionized pos
 
 * This course will address: 
 
-  1. the technical principles of **Global Navigation Satellite Systems (GNSS), **
+  1. the technical principles of **Global Navigation Satellite Systems (GNSS),**
 
   2. the methods to improve the accuracy of standard positioning services down to the millimeter accuracy level and the integrity of the systems, 
 
